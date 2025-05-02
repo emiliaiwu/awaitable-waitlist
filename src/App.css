@@ -5,6 +5,10 @@
 	text-align: center;
 }
 
+body {
+	display: flex;
+}
+
 @font-face {
 	font-family: "NeueMontrealMedium";
 	src: url("./assets/font/NeueMontreal-Medium.woff2") format("woff2");

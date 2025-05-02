@@ -11,7 +11,7 @@ const Home = () => {
 						<img src={logo} alt='Awaitable Logo' />
 					</div>
 					<div className='flex justify-center items-center flex-col'>
-						<h1 className='2xl:max-w-[950px] xl:max-w-[850px] max-w-[550px] lg:max-w-[700px] tracking-tight xl:text-7xl text-4xl sm:text-5xl lg:text-6xl 2xl:text-8xl mb-10 font-NeueMontrealMedium leading-[110%]'>
+						<h1 className='2xl:max-w-[1150px] xl:max-w-[850px] sm:max-w-[550px] lg:max-w-[700px] tracking-tight xl:text-7xl text-[42px] sm:text-5xl lg:text-6xl 2xl:text-8xl mb-10 font-NeueMontrealMedium leading-[110%]'>
 							All the Waitlists You’ve Joined, Finally in One Place
 						</h1>
 						<p className='lg:text-lg text-base xl:max-w-[740px] max-w-[620px] font-NeueMontreal text-[#444444]'>
